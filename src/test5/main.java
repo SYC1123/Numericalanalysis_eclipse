@@ -40,7 +40,7 @@ public class main {
 		
 		System.out.println("x的结果为：");
 		for(int i=0;i<4;i++) {
-			System.out.printf("%-1f\t", x[i]);
+			System.out.printf("%-1f\t", x[i]);			
 		}
 
 	}
